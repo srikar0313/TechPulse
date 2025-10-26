@@ -1,0 +1,5 @@
+{
+  "name": "TechPulse",
+  "description": "A technical blog that automatically fetches and displays the latest technology updates, innovations, and news using AI. Features include category filtering, search, bookmarking, and a dark/light mode toggle.",
+  "requestFramePermissions": []
+}
